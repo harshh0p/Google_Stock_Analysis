@@ -5,7 +5,7 @@ The Purpose of this project was to analyze and gain insights from the historical
 
 To begin the analysis, historical stock price data for Google was collected from reliable sources and imported into Excel for data manipulation and analysis. Data Cleaning techniques were applied to remove any inconsistencies or errors in the data. The data was then organized into time-series format, with the stock prices recorded on a monthly basis to capture the long-term trend.
 
-![Project_01_0](https://user-images.githubusercontent.com/114233100/231276205-f4d091cb-2814-4fca-948d-132b2714a9b9.png)
+![Project_01_0](https://user-images.githubusercontent.com/114233100/231276205-f4d091cb-2814-4fca-948d-132b2714a9b9.png | width=200)
 
 Next, Daily Changes and Normaized were calculated using Excel functions, various interactive graphical representations, such as line chart and candlestick charts, were alse created using excel to visually represent the stock price data. These charts allowed for easy visualization of the stock price trends, patterns, and volatility over time. The charts were carefully analyzed to identify any significant events or trends that may have influenced the stock price performance of Google during the analyzed period.
 
